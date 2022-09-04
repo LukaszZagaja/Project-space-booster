@@ -317,6 +317,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   mainThrust: 1000
+  rotationThrust: 200
 --- !u!54 &1611114806
 Rigidbody:
   m_ObjectHideFlags: 0
