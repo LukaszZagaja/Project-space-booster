@@ -13,8 +13,8 @@ GameObject:
   - component: {fileID: 3922674563444683348}
   - component: {fileID: 4338253143130496631}
   m_Layer: 0
-  m_Name: Sphere
-  m_TagString: Untagged
+  m_Name: Fuel
+  m_TagString: Fuel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
