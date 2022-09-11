@@ -493,14 +493,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1611114807, guid: fe22392e4b3a58749b086a617a26ec11, type: 3}
-      propertyPath: Loop
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1611114807, guid: fe22392e4b3a58749b086a617a26ec11, type: 3}
-      propertyPath: m_PlayOnAwake
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 384196226007326365, guid: fe22392e4b3a58749b086a617a26ec11, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -549,29 +541,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Rocket
       objectReference: {fileID: 0}
-    - target: {fileID: 1740542200628532929, guid: fe22392e4b3a58749b086a617a26ec11, type: 3}
-      propertyPath: m_TagString
-      value: Untagged
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fe22392e4b3a58749b086a617a26ec11, type: 3}
---- !u!1 &4026215916956132907 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1740542200628532929, guid: fe22392e4b3a58749b086a617a26ec11, type: 3}
-  m_PrefabInstance: {fileID: 4026215916956132906}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &4026215916956132908
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4026215916956132907}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6f98c5f882dde114ca613cd3a49fc8cc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1001 &4944568642462852795
 PrefabInstance:
   m_ObjectHideFlags: 0
